@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <rootObject _jt="IBFSMRObject" binary="false" defaultLng="en_US" dummy="false" expireDate="0" length="0" type="FexFile">
     <properties size="2">
-        <entry key="LastDescribed" value="1782306886308"/>
+        <entry key="LastDescribed" value="1782306985846"/>
         <entry key="tool" value="infoAssist,report"/>
     </properties>
-    <extendedProperties _jt="HashMap"/>
     <nlsValues _jt="HashMap">
         <entry>
             <key _jt="string" value="en_US"/>
